@@ -1,0 +1,47 @@
+Student: [Erick Nguyen]
+Date: [Today's Date:12/1/2025]
+
+
+---
+
+
+CHOICE POINT #1: JA
+Option Chosen: [A]
+Explanation: The reason why I chose option A is because I feel like that our school has very little school spirit. And I thought that for a Ja website might as well go with the Ja colors. and also I did not really feel like going to a color picker and picking out color values that I like to put into the code. 
+NEXT QUARTER PLANNING (myclassesnextquarter.html)
+
+
+My Classes for Next Quarter:
+- A Block: [Anatomy] - [8:25-9:55]
+- B Block: [English ] - [10:00-11:30] (or Free Period)
+- C Block: [Cinematic Science] - [11:30-1:45]
+- D Block: [INTERPERSONAL-COMM] - [1:50-3:20]
+(Add 1st Period if applicable)
+
+
+Explanation:
+[Write 4-6 sentences about your next quarter schedule:
+The reason why I choose these classes is because I wanted to start taking college classes to start building up some credit before I graduate and save some money in the future. Also the college classes that I am taking are required classes by most colleges so that I dont have to waste time on them in the future. as for the highschool classes I just took the most intersting ones. 
+
+
+Free Period Challenge (if applicable):
+[If you have a free period, did you complete the challenge to hide it on mobile? Explain how you implemented it using d-none d-sm-block]
+
+
+---
+
+
+REFLECTION
+
+
+What I Learned:
+[Write 5-8 sentences reflecting on Module 1:
+What I have learned from this module is that its pretty easy to use bootdstrap as all you need to do is link boot strap to the page and you are able to use the styling of boot strap on your website. This makes it simple and easy to style your website. the most challenging part of this module is going to be setting up the file to work and it took me some tome to figure out what I was doing wrong in the terminal. I feel like its okay for my css as i just want this assignment to be over with. Will I use Jagtrack? most likly not as have have other resources I use that are better and easier to use and keep track of my school work. 
+- What Bootstrap concepts made sense to you?
+- What was most challenging?
+- How do you feel about your CSS customization?
+- What would you add to JagTrack in the future?
+- How will you use this site for planning next quarter?]
+
+
+Hours Spent: [probably like 4 hours.]
